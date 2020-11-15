@@ -7,8 +7,8 @@
 This is a collection of random projects i do while learning.
 
 ## Technologies 
-Projects are created with:
-Python: 3.9
+Projects are created with:/n
+Python: 3.9 /n
 Java SE Development Kit: 15.0.1
 
 ## Setup
